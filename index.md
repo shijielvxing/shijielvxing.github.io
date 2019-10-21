@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+这里是世界旅行的官网地址发布页，建议您使用Ctrl + D （Windows), ⌘ + D(Mac)将我们加入收藏夹。
+1. ### [点我进入官网1](https://www.miaomiao.eu.org "点我进入官网1")
+2. ### [点我进入官网2](https://sjlx.xyz "点我进入官网2")
 
-You can use the [editor on GitHub](https://github.com/shijielvxing/shijielvxing.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我们的Telegram频道：[世界旅行](https://t.me/kantianxia "世界旅行")    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shijielvxing/shijielvxing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+网址所有通知也会通过 `my@kantianxia.win` 发送，邮件可能会进入垃圾箱，请将其加入您邮箱联系人，以免错过重要通知    
+您也可以在任意时刻发送任意邮件至` my@kantianxia.win` 获取最新官网地址。
