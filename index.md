@@ -5,5 +5,5 @@
 
 我们的Telegram频道：[世界旅行](https://t.me/kantianxia "世界旅行")    
 
-网址所有通知也会通过 `my@kantianxia.win` 发送，邮件可能会进入垃圾箱，请将其加入您邮箱联系人，以免错过重要通知      
+网站所有通知会通过 `my@kantianxia.win` 发送，邮件可能会进入垃圾箱，请将其加入您邮箱联系人，以免错过重要通知      
 您也可以在任意时刻发送任意邮件至` my@kantianxia.win` 获取最新官网地址。
